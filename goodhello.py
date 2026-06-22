@@ -16,6 +16,7 @@ def happy():
     """Prints a happy phrase."""
     print("I'm feeling happy today!")
 
+
 if __name__ == "__main__":
     hello()
     bye()
